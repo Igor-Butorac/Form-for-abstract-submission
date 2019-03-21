@@ -1,0 +1,17 @@
+10.10.10.8 --> GEOLIS
+
+10.10.10.12 --> GEOLOŠKI VJESNIK i WEB
+
+10.10.10.31 --> PASSOVI
+
+10.10.10.34 --> TRANITAL
+
+10.10.10.33 --> mora raditi XAMPP da bi radio share sa D za elaborate
+
+192.168.2.29 --> E-LAB
+
+VPS - karte i geologia croatica
+
+
+
+31.147.204.53
